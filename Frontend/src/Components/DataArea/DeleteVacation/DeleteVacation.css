@@ -1,0 +1,16 @@
+.DeleteVacation {
+    display: flex;
+    align-items: center;
+}
+
+.DeleteVacation button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    color: #ff0000;
+}
+
+.DeleteVacation button:hover {
+    color: #cc0000;
+}

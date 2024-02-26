@@ -1,0 +1,14 @@
+.checkboxOfLikes {
+    margin-bottom: 10px;
+  }
+  
+  .checkboxOfLikes label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  
+  .checkboxOfLikes input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
